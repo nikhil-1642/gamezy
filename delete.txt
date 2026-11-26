@@ -1,0 +1,38 @@
+DELETE YOUR ACCOUNT
+
+App: Durant Dev (PR)
+Operated by: P R Enterprises (contact person: Nikhil)
+Last updated: 26 November 2026
+
+This page explains how to ask us to delete your Durant Dev (PR) account and the data linked to it.
+
+
+HOW TO REQUEST DELETION
+
+1. Send an email to paterinikhil0888@gmail.com with the subject "Delete my account". You can also call or WhatsApp +91 93902 86430.
+
+2. In your message, include your name and the 10-digit mobile number you registered with, so we can find and verify your account.
+
+3. We will reply to confirm, and delete your account within 30 days of your verified request.
+
+
+DATA WE DELETE
+
+- Your name and mobile number
+- Your shop or business name and profile photo
+- Your saved delivery addresses and pinned map locations
+- Your notification (push) token
+- Your order history shown in the app
+
+Data stored only on your phone (cart, wishlist, cached items) is removed when you uninstall the app or clear its data.
+
+
+DATA WE MAY KEEP
+
+- Basic order and billing records (items, amounts and dates) may be kept for up to 1 year for accounting, tax and legal reasons, and are then deleted.
+- Backups are removed within 30 days after deletion.
+
+
+QUESTIONS
+
+Contact Nikhil at paterinikhil0888@gmail.com or +91 93902 86430.
