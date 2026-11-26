@@ -1,50 +1,90 @@
 PRIVACY POLICY
-For: Gamezy
-Last updated: August 10, 2026
-1. Introduction
-This Privacy Policy explains how Your Game Name (“the App”, “we”, “us”, or “our”) handles information when you use the App. The App is an offline game application that includes games such as Ludo, Word Search, Tic Tac Toe, and related gameplay features.
-By using the App, you acknowledge the practices described in this Privacy Policy.
-2. Information We Collect
-The App does not require you to create an account and does not directly require you to provide personal information to play the games.
-Gameplay information such as progress, unlocked levels, and scores may be stored locally on your device using device/browser storage. This information is used to provide gameplay functionality and is not intentionally uploaded by the App to our own servers.
-If you voluntarily contact us for support, we may receive the information you include in your message, such as your email address and the contents of your request.
-3. Advertising and Google AdMob
-The App may display advertisements, including banner ads, interstitial ads, and optional rewarded ads, through Google AdMob and its related Google Mobile Ads SDK.
-Because advertising is provided by a third-party service, Google may process certain information from the device and app interaction in order to provide, measure, prevent fraud in, and improve advertising services. Depending on applicable settings, region, device, and consent choices, this may include information such as advertising/device identifiers, IP address or network information, approximate location derived from IP address, app and ad interaction information, diagnostics, and other information described in Google's applicable documentation and privacy policies.
-We do not control the information collected directly by Google through its advertising services. Google's processing is governed by Google's policies and terms.
-4. Rewarded Advertisements
-The App may offer optional rewarded advertisements. For example, a user may choose to watch a rewarded advertisement to receive an in-game benefit such as additional game time.
-Rewards are granted by the App only after the rewarded-ad event is successfully reported by the advertising SDK. Ad availability and reward availability may depend on network connectivity, ad inventory, regional availability, and the advertising service.
-5. Local Data Storage
-Game progress may be stored locally on your device. This may include scores, unlocked levels, gameplay settings, and other information required for the App to remember your progress.
-We do not operate a server for storing this gameplay information based on the current version of the App. Uninstalling the App or clearing its app data may remove locally stored gameplay information.
-6. Data Sharing
-We do not sell your personal information.
-The App may use third-party advertising services such as Google AdMob. Information processed by those services may be shared with their service providers, advertising partners, and other parties as described in their applicable policies and depending on the advertising configuration and applicable law.
-If you voluntarily contact us for support, we may use the information you provide only as reasonably necessary to respond to your request, troubleshoot the App, or provide support.
-7. Data Retention and Deletion
-Locally stored gameplay data remains on your device until it is deleted by you, cleared through the device's app-data controls, or removed when the App is uninstalled, subject to how your device handles application storage.
-We do not maintain an account system for the App. If you contact us by email, we retain the information you provide only for as long as reasonably necessary to handle your request, maintain appropriate records, or comply with legal obligations.
-Because advertising services are operated by third parties, deletion or control of information processed by those services may be subject to the relevant third party's policies and available privacy controls.
-8. Children's Privacy
-The App is not intended to knowingly collect personal information from children. We do not knowingly request account registration or personal information from children.
-If you believe that a child has provided personal information to us, please contact us at the email address below so that we can review the request and take appropriate action.
-9. Security
-We take reasonable measures to protect information under our control. Gameplay information stored locally is handled by the App's local storage mechanisms.
-Information processed by third-party services, including advertising services, is subject to those providers' security practices and policies. No method of electronic storage or transmission can be guaranteed to be completely secure.
-10. Your Choices
-You may stop using the App at any time. You can remove locally stored gameplay information by clearing the App's data or uninstalling the App, subject to your device's behavior.
-Advertising personalization and privacy choices may also be available through your device settings, applicable consent controls, and controls provided by Google or other advertising providers, depending on your location and the advertising configuration.
-11. Third-Party Privacy Policies
-For information about Google's handling of data through Google AdMob and Google Mobile Ads services, please review Google's applicable privacy documentation and policies.
-Google Privacy Policy:
-https://policies.google.com/privacy
-Google AdMob:
-https://support.google.com/admob/
-12. Changes to This Privacy Policy
-We may update this Privacy Policy from time to time. When we make changes, we will update the “Last updated” date above. You are encouraged to review this policy periodically.
-13. Contact Us
-If you have questions, concerns, or requests regarding this Privacy Policy or the App's privacy practices, contact:
-Pateri Nikhil
+
+App: Durant Dev (PR) (the "App")
+Operated by: P R Enterprises (contact person: Nikhil)
+Effective date: 26 November 2026
+
+Durant Dev (PR) ("we", "us", "our") operates the App, which helps shopkeepers, EDLI center operators and other business buyers browse and order pulses, spices and related grocery items from P R Enterprises. This policy explains what information we collect, why we collect it, and how it is used and protected.
+
+
+1. INFORMATION WE COLLECT
+
+1.1 Information you give us
+
+- Name and mobile number: to create your account, log you in, and contact you about orders.
+- Shop or business name (optional): to identify your business on orders.
+- Profile or shop photo (optional): to show on your profile.
+- Delivery addresses and map pin location: to deliver your orders and calculate delivery charges.
+- Order details (items, quantities, prices, status, history): to process, deliver and show your orders.
+
+1.2 Information collected through the App
+
+- Precise location: only when you tap the GPS button or use the map to set a delivery location. We do not track your location in the background. You can deny this permission and type or search for your address instead.
+- Notification token: if you enable notifications, a device token is created by Firebase Cloud Messaging and saved with your account so we can send order updates. You can turn notifications off in the App (Profile) or in your phone settings.
+- Data stored on your device: the App keeps your cart, wishlist and a cache of products and orders on your device so it loads faster. This stays on your device.
+
+1.3 What we do not collect
+
+We do not access your contacts, camera, microphone or files. We do not show ads, and we do not use advertising IDs. We do not sell your personal information.
+
+
+2. HOW WE USE YOUR INFORMATION
+
+- Create and manage your account.
+- Send your order to P R Enterprises for approval and processing.
+- Deliver orders to the correct location and calculate delivery charges.
+- Send order status updates and important notices by push notification.
+- Provide customer support and keep the App working.
+
+
+3. LOGIN AND ACCOUNT APPROVAL
+
+You register with your name and 10-digit mobile number. Later you log in with the same mobile number; no password or one-time code is required at present. Because of this, please keep your device and mobile number secure and tell us immediately if your number is lost or compromised. Ordering may be enabled only after your account is approved by P R Enterprises.
+
+
+4. SERVICES WE USE AND DATA SHARING
+
+We do not sell or rent your personal data. We share limited data only as needed to run the App:
+
+- Google Firebase (Firebase Cloud Messaging): to deliver push notifications. Privacy policy: https://policies.google.com/privacy
+- OpenStreetMap services (Nominatim and map tiles) and Photon (Komoot): to show maps and to search or look up addresses. When you pick a location or search for a place, the coordinates or search text are sent to these services.
+- Our hosting provider (Railway): where our server and database run.
+- Delivery staff: they receive your name, phone number, address and order details to fulfil your order.
+- Authorities: if required by law.
+
+
+5. SECURITY
+
+Data is sent between the App and our server over encrypted (HTTPS) connections and stored on our server with reasonable safeguards. No method of electronic storage is completely secure, so we cannot guarantee absolute security.
+
+
+6. DATA RETENTION AND DELETION
+
+We keep your account and order information while your account is active. You can ask us to delete your account and data at any time by following the steps on our deletion page:
+
+Delete account page: [PASTE YOUR PUBLIC DELETE-ACCOUNT LINK HERE]
+
+Or contact us at paterinikhil0888@gmail.com. We delete your account within 30 days of a verified request. Basic order and billing records may be kept for up to 1 year for accounting and legal reasons, then deleted.
+
+
+7. YOUR RIGHTS
+
+You may ask for a copy of your data, ask us to correct it, ask us to delete it, and withdraw location or notification permission at any time from your device settings. Contact us using the details below.
+
+
+8. CHILDREN
+
+The App is for business use and is not directed at children. We do not knowingly collect data from anyone under 18.
+
+
+9. CHANGES TO THIS POLICY
+
+We may update this policy from time to time. The latest version will be posted on this page with a new effective date.
+
+
+10. CONTACT US
+
+Durant Dev (PR) / P R Enterprises
+Contact person: Nikhil
 Email: paterinikhil0888@gmail.com
-App: Gamezy
+Phone / WhatsApp: +91 93902 86430
